@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "A test of a node thingy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Innoviox/learning.git"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "Innoviox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Innoviox/learning/issues"
+  },
+  "homepage": "https://github.com/Innoviox/learning#readme"
+}
